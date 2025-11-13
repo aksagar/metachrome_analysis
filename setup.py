@@ -30,7 +30,7 @@ setup(
     description="MetaChrome - A toolkit for analyzing metaphase chromosomes",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/aksagar/napari-chromosome-analysis",
+    url="https://github.com/aksagar/metachrome_analysis",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -81,7 +81,7 @@ setup(
     keywords="metachrome, chromosome, analysis, segmentation, fluorescence, microscopy, napari",
     project_urls={
         "Documentation": "https://metachrome-analysis.readthedocs.io/",
-        "Source": "https://github.com/aksagar/napari-chromosome-analysis",
-        "Tracker": "https://github.com/aksagar/napari-chromosome-analysis/issues",
+        "Source": "https://github.com/aksagar/metachrome_analysis",
+        "Tracker": "https://github.com/aksagar/metachrome_analysis/issues",
     },
 ) 
