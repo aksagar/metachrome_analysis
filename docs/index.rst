@@ -51,7 +51,7 @@ Contents
    manual_corrections
    advanced_features
    troubleshooting
-   user_guide
+   citation
 
 .. toctree::
    :maxdepth: 2
