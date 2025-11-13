@@ -189,6 +189,8 @@ Citation
 
 If you use this toolkit in your research, please cite:
 
+**bioRxiv preprint:** https://www.biorxiv.org/content/10.1101/2025.09.02.673813v1
+
 **Author:** Md Abdul Kader Sagar  
 **Affiliation:** HITIF/LRBGE/CCR/NCI (National Cancer Institute/NIH)  
 **Email:** sagarm2@nih.gov
